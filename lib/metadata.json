@@ -1,0 +1,2934 @@
+{
+  "vaultName": "mashroomash",
+  "lastExport": 1738148648505,
+  "pluginVersion": "1.8.01",
+  "validBodyClasses": "publish css-settings-manager theme-light theme-solarized cards-layout line-style-solid folder-rainbow-titles blockquote-block blockquote-mark callout-normal tag-default link-em colorful-headings responsive-tile-height c-3c53-2d5c-use-background c-f75d-7538-use-background c-5df5-173c-use-background c-a454-ee24-use-background c-3df7-6436-use-background bold-C009 itl-C010 bld-itl-C011 highlight-C002",
+  "useCustomHeadContent": false,
+  "useCustomFavicon": false,
+  "files": [
+    "00 Daily/05/2024-05-21.md",
+    "00 Daily/05/2024-05-22.md",
+    "00 Daily/06/2024-06-01.md",
+    "00 Daily/06/2024-06-02.md",
+    "00 Daily/06/2024-06-03.md",
+    "00 Daily/06/2024-06-04.md",
+    "00 Daily/06/2024-06-05.md",
+    "00 Daily/06/2024-06-06.md",
+    "00 Daily/06/2024-06-07.md",
+    "00 Daily/06/2024-06-08.md",
+    "00 Daily/06/2024-06-09.md",
+    "00 Daily/06/2024-06-10.md",
+    "00 Daily/06/2024-06-11.md",
+    "00 Daily/06/2024-06-12.md",
+    "00 Daily/06/2024-06-13.md",
+    "00 Daily/06/2024-06-14.md",
+    "00 Daily/06/2024-06-15.md",
+    "00 Daily/06/2024-06-16.md",
+    "00 Daily/06/2024-06-17.md",
+    "00 Daily/06/2024-06-18.md",
+    "00 Daily/06/2024-06-19.md",
+    "00 Daily/06/2024-06-20.md",
+    "00 Daily/06/2024-06-21.md",
+    "00 Daily/06/2024-06-22.md",
+    "00 Daily/06/2024-06-23.md",
+    "00 Daily/06/2024-06-24.md",
+    "00 Daily/06/2024-06-25.md",
+    "00 Daily/06/2024-06-26.md",
+    "00 Daily/06/2024-06-27.md",
+    "00 Daily/06/2024-06-28.md",
+    "00 Daily/06/2024-06-29.md",
+    "00 Daily/06/2024-06-30.md",
+    "00 Daily/07/2024-07-01.md",
+    "00 Daily/07/2024-07-02.md",
+    "00 Daily/07/2024-07-03.md",
+    "00 Daily/07/2024-07-04.md",
+    "00 Daily/07/2024-07-05.md",
+    "00 Daily/07/2024-07-06.md",
+    "00 Daily/07/2024-07-07.md",
+    "00 Daily/07/2024-07-08.md",
+    "00 Daily/07/2024-07-09.md",
+    "00 Daily/07/2024-07-10.md",
+    "00 Daily/07/2024-07-11.md",
+    "00 Daily/07/2024-07-12.md",
+    "00 Daily/07/2024-07-13.md",
+    "00 Daily/07/2024-07-14.md",
+    "00 Daily/07/2024-07-15.md",
+    "00 Daily/07/2024-07-16.md",
+    "00 Daily/07/2024-07-17.md",
+    "00 Daily/07/2024-07-18.md",
+    "00 Daily/07/2024-07-19.md",
+    "00 Daily/07/2024-07-20.md",
+    "00 Daily/07/2024-07-21.md",
+    "00 Daily/07/2024-07-22.md",
+    "00 Daily/07/2024-07-23.md",
+    "00 Daily/07/2024-07-24.md",
+    "00 Daily/07/2024-07-25.md",
+    "00 Daily/07/2024-07-26.md",
+    "00 Daily/07/2024-07-27.md",
+    "00 Daily/07/2024-07-28.md",
+    "00 Daily/07/2024-07-29.md",
+    "00 Daily/07/2024-07-30.md",
+    "00 Daily/07/2024-07-31.md",
+    "00 Daily/08/2024-08-01.md",
+    "00 Daily/08/2024-08-02.md",
+    "00 Daily/08/2024-08-05.md",
+    "00 Daily/08/2024-08-09.md",
+    "00 Daily/08/2024-08-10.md",
+    "00 Daily/08/2024-08-12.md",
+    "00 Daily/08/2024-08-13.md",
+    "00 Daily/08/2024-08-14.md",
+    "00 Daily/08/2024-08-15.md",
+    "00 Daily/08/2024-08-17.md",
+    "00 Daily/08/2024-08-18.md",
+    "00 Daily/08/2024-08-19.md",
+    "00 Daily/08/2024-08-20.md",
+    "00 Daily/08/2024-08-22.md",
+    "00 Daily/08/2024-08-23.md",
+    "00 Daily/08/2024-08-24.md",
+    "00 Daily/11/2024-11-18.md",
+    "00 Daily/11/2024-11-19.md",
+    "00 Daily/11/2024-11-20.md",
+    "00 Daily/11/2024-11-21.md",
+    "00 Daily/11/2024-11-22.md",
+    "00 Daily/2025-01-27.md",
+    "00 Daily/2025-01-28.md",
+    "01 Maps/Tags/channel.md",
+    "01 Maps/Tags/playlist.md",
+    "01 Maps/Tags/project.md",
+    "01 Maps/Tags/video 3D.md",
+    "01 Maps/Tags/video animation.md",
+    "01 Maps/Tags/YouTube.md",
+    "01 Maps/Themes/Notes.md",
+    "01 Maps/Themes/Resources.md",
+    "01 Maps/Themes/Tags.md",
+    "01 Maps/Topics/Color Management.md",
+    "01 Maps/Topics/The Hitchhiker's Guide to Digital Colour.md",
+    "01 Maps/YouTube/Channels/3dEx.md",
+    "01 Maps/YouTube/Channels/Abe Leal 3D.md",
+    "01 Maps/YouTube/Channels/Alex on Story.md",
+    "01 Maps/YouTube/Channels/CGMatter.md",
+    "01 Maps/YouTube/Channels/CrossMind Studio.md",
+    "01 Maps/YouTube/Channels/Daniel Krafft.md",
+    "01 Maps/YouTube/Channels/Dédouze.md",
+    "01 Maps/YouTube/Channels/Dikko.md",
+    "01 Maps/YouTube/Channels/Doodley.md",
+    "01 Maps/YouTube/Channels/FlippedNormals.md",
+    "01 Maps/YouTube/Channels/Freya Holmér.md",
+    "01 Maps/YouTube/Channels/Grant Abbitt.md",
+    "01 Maps/YouTube/Channels/Joey Carlino.md",
+    "01 Maps/YouTube/Channels/Lightning Boy Studio.md",
+    "01 Maps/YouTube/Channels/Motion Design School.md",
+    "01 Maps/YouTube/Channels/New Plastic.md",
+    "01 Maps/YouTube/Channels/Nexttut.md",
+    "01 Maps/YouTube/Channels/Phoerens.md",
+    "01 Maps/YouTube/Channels/sociamix.md",
+    "01 Maps/YouTube/Channels/SouthernShotty.md",
+    "01 Maps/YouTube/Channels/Stylized Station.md",
+    "01 Maps/YouTube/Channels/TipTut.md",
+    "01 Maps/YouTube/Playlist/Anatomy Quick Tips.md",
+    "01 Maps/YouTube/Playlist/Animated Content Creation.md",
+    "01 Maps/YouTube/Playlist/Bespoke Synth - Modular DAW Tutorials and Projects.md",
+    "01 Maps/YouTube/Playlist/CGI for Product Advertising.md",
+    "01 Maps/YouTube/Playlist/Creating a Mega Character.md",
+    "01 Maps/YouTube/Playlist/Creating Backgrounds.md",
+    "01 Maps/YouTube/Playlist/Demo reel dash.md",
+    "01 Maps/YouTube/Playlist/Full VFX Course - Houdini Is Hip.md",
+    "01 Maps/YouTube/Playlist/Game Ready 3D Enemy Minion.md",
+    "01 Maps/YouTube/Playlist/Geometry Nodes For Beginners - Blender 3D.md",
+    "01 Maps/YouTube/Playlist/Get Good at Blender.md",
+    "01 Maps/YouTube/Playlist/Get Good at Blender 2.8.md",
+    "01 Maps/YouTube/Playlist/Getting Started with Substance Painter 2021.md",
+    "01 Maps/YouTube/Playlist/LookdevX.md",
+    "01 Maps/YouTube/Playlist/LuxCore Render for Blender.md",
+    "01 Maps/YouTube/Playlist/Mantaflow.md",
+    "01 Maps/YouTube/Playlist/Modeling for Animation!.md",
+    "01 Maps/YouTube/Playlist/Natron Compositor Tutorials.md",
+    "01 Maps/YouTube/Playlist/Rigging Characters in Blender.md",
+    "01 Maps/YouTube/Playlist/Rigid Body Dynamics.md",
+    "01 Maps/YouTube/Playlist/Stylized Character Bust.md",
+    "01 Maps/YouTube/Playlist/The Creature Design Workshop.md",
+    "01 Maps/YouTube/Playlist/Ultimate Beginner's Guide to Creating 3D Stylized Environments.md",
+    "02 Review/Canvas/Activity.canvas",
+    "02 Review/Canvas/Diet.canvas",
+    "02 Review/Dataview/Dataview.md",
+    "02 Review/Dataview/Diet.md",
+    "02 Review/Dataview/Food.md",
+    "02 Review/Dataview/Gallery.md",
+    "02 Review/Dataview/Notes Gallery.md",
+    "02 Review/Dataview/Products.md",
+    "02 Review/Skincare/AM.png",
+    "02 Review/Skincare/Art&Fact.md",
+    "02 Review/Skincare/Icon Skin.md",
+    "02 Review/Skincare/Mask.png",
+    "02 Review/Skincare/New.md",
+    "02 Review/Skincare/Onme.md",
+    "02 Review/Skincare/Other.md",
+    "02 Review/Skincare/PM.png",
+    "02 Review/Skincare/Skincare products.md",
+    "02 Review/Cara.md",
+    "02 Review/Instagram.md",
+    "02 Review/Kinopio.md",
+    "03 Code/Code blocks.md",
+    "03 Code/index.html.md",
+    "03 Code/readme.md",
+    "03 Code/readme (2).md",
+    "04 Projects/Done/Blender Donut.md",
+    "04 Projects/Done/Character Design Contest.md",
+    "04 Projects/Done/ED brochure.canvas",
+    "04 Projects/Done/Maya Statue.md",
+    "04 Projects/Done/Meet Mat 4.md",
+    "04 Projects/Done/Womp 3D.md",
+    "04 Projects/Portfolio/Animated character.md",
+    "04 Projects/Portfolio/Meet Meat.md",
+    "04 Projects/Portfolio/Resting Pieces.md",
+    "04 Projects/Portfolio/Talking Head.md",
+    "04 Projects/To-Do/30 renders.md",
+    "04 Projects/To-Do/100 projects.md",
+    "04 Projects/To-Do/D&D.md",
+    "04 Projects/To-Do/Demo Reel.md",
+    "04 Projects/To-Do/Monster Challenge.md",
+    "04 Projects/To-Do/PDF portfolio.md",
+    "04 Projects/To-Do/Pokemons.md",
+    "04 Projects/Brain threads.md",
+    "04 Projects/Sculptober.md",
+    "05 Notes/3D/3D USD Masterclass Scene Assembly and Rendering.Note.md",
+    "05 Notes/3D/50 terms.md",
+    "05 Notes/3D/Eevee settings.md",
+    "05 Notes/3D/Mouth Animation.md",
+    "05 Notes/Animation/Animation Basics in 14 Minutes (6 Big ideas for beginners).Note.md",
+    "05 Notes/Animation/How to Keyframe Like a Pro! (Animation process for any software).Note.md",
+    "05 Notes/Animation/Should you PLAN your animation.Note.md",
+    "05 Notes/Animation/The Three Biggest Ideas in Animation.Note.md",
+    "05 Notes/Animation/The Trickiest Animation Principle, Simplified.Note.md",
+    "05 Notes/Mental/Anxiety & Depression Workbook.md",
+    "05 Notes/Mental/CHILDHOOD PTSD QUESTIONNAIRE.md",
+    "05 Notes/Mental/Helping the inner child heal from being the family scapegoat.md",
+    "05 Notes/Mental/My inner child thinks.md",
+    "05 Notes/Mental/Non-negotiables, narcissistic people, and boundaries.md",
+    "05 Notes/Science/Vectors & Dot Product • Math for Game Devs - Part 1.Note.md",
+    "05 Notes/Graphic Design Resources.md",
+    "05 Notes/Substance Designer - Stylized Water Material.canvas",
+    "06 Plan/00/3D Animation Degree.md",
+    "06 Plan/00/3D Animation Foundations.md",
+    "06 Plan/00/3D Animator Specialization.md",
+    "06 Plan/00/3D Modeler Specialization.md",
+    "06 Plan/00/3D Modeling Degree.md",
+    "06 Plan/00/3D Modeling Essentials.md",
+    "06 Plan/00/3D Modeling Foundations.md",
+    "06 Plan/00/All 3D Courses.md",
+    "06 Plan/00/Animation exercises.md",
+    "06 Plan/00/Rookie Awards.md",
+    "06 Plan/00/Rookie of the Year - 3D Animation.md",
+    "06 Plan/00/The Rookies.md",
+    "06 Plan/00/What should I animate - pt.1 demo reel.md",
+    "06 Plan/00/What should I animate - pt.2 exercises.md",
+    "06 Plan/01/2024.md",
+    "06 Plan/01/2025.md",
+    "06 Plan/01/Goals.md",
+    "06 Plan/01/Months.md",
+    "06 Plan/01/Year.canvas",
+    "06 Plan/02/24.08.August.md",
+    "06 Plan/02/24.09.September.md",
+    "06 Plan/02/24.10.October.md",
+    "06 Plan/02/24.11.November.md",
+    "06 Plan/02/24.12.December.md",
+    "06 Plan/02/25.01.January.md",
+    "06 Plan/03/2024-W34.md",
+    "06 Plan/03/2024-W35.md",
+    "06 Plan/03/2024-W36.md",
+    "06 Plan/03/2024-W37.md",
+    "06 Plan/03/2024-W38.md",
+    "06 Plan/03/2024-W39.md",
+    "06 Plan/04/Contests.md",
+    "06 Plan/04/To Read.md",
+    "06 Plan/05/00/Animation.md",
+    "06 Plan/05/00/Characters.md",
+    "06 Plan/05/00/Compositing.md",
+    "06 Plan/05/00/Modeling.md",
+    "06 Plan/05/00/Sculpting.md",
+    "06 Plan/05/01/Hard Surface.md",
+    "06 Plan/05/01/Low-Poly.md",
+    "06 Plan/05/01/Textures.md",
+    "06 Plan/05/01/USD.md",
+    "06 Plan/05/02/After Effects.md",
+    "06 Plan/05/02/Blackmagic Fusion.md",
+    "06 Plan/05/02/Blender 3D.md",
+    "06 Plan/05/02/Houdini.md",
+    "06 Plan/05/02/KeyShot.md",
+    "06 Plan/05/02/Marmoset Toolbag.md",
+    "06 Plan/05/02/Maya.md",
+    "06 Plan/05/02/Natron.md",
+    "06 Plan/05/02/Substanse Designer.md",
+    "06 Plan/05/02/Substanse painter.md",
+    "06 Plan/05/02/ZBrush.md",
+    "06 Plan/06/Goal.md",
+    "06 Plan/06/Kanban.md",
+    "06 Plan/06/Month.md",
+    "06 Plan/06/Plan.md",
+    "06 Plan/06/Project.md",
+    "06 Plan/06/Week.md",
+    "06 Plan/Ideas.md",
+    "07/Read/Stuff/Bespoke Synth Reference.md",
+    "07/Read/Stuff/BoJack Horseman.md",
+    "07/Read/Stuff/The Hitchhiker's Guide.md",
+    "07/Read/Stuff/The Hitchhiker's guide to understanding digital 3D model file formats.md",
+    "07/Read/Stuff/Visual Color Comparison.md",
+    "07/Read/The Hitchhiker's Guide to Digital Colour/Question 1 What the Fuck Happens When We Change an RGB Slider Value.md",
+    "07/Read/The Hitchhiker's Guide to Digital Colour/Question 2 What the Fuck Does 0.6 Mean.md",
+    "07/Read/The Hitchhiker's Guide to Digital Colour/Question 3 Does the Fucking “Colour” of the Light Change When We Increase or Decrease the Quantity of Light.md",
+    "07/Read/The Hitchhiker's Guide to Digital Colour/Question 4 What the Fuck are the Colours of the Three Lights.md",
+    "07/Read/The Hitchhiker's Guide to Digital Colour/Question 5 What the Fuck does 0.5 mean.md",
+    "07/Read/The Hitchhiker's Guide to Digital Colour/Question 6 What the Fuck is a Transfer Function.md",
+    "07/Read/The Hitchhiker's Guide to Digital Colour/Question 7 What the Fuck Does “Linear” Mean.md",
+    "07/Read/The Hitchhiker's Guide to Digital Colour/Question 8 What the Fuck Type of “Linear” Have We Been Assuming.md",
+    "07/Read/The Hitchhiker's Guide to Digital Colour/Question 9 Why the Fuck is Linear Light Important for a Digital Artist.md",
+    "07/Read/The Hitchhiker's Guide to Digital Colour/Question 10 Why the Fuck Do We Bother With Linear and Nonlinear Encodings At All.md",
+    "07/Read/The Hitchhiker's Guide to Digital Colour/Question 11 How the Fuck Can We Talk About “Colour”.md",
+    "07/Read/The Hitchhiker's Guide to Digital Colour/Question 12 How the Fuck Can We Talk About Light “Intensity”.md",
+    "07/Read/The Hitchhiker's Guide to Digital Colour/Question 13 What the Fuck is a Chromaticity.md",
+    "07/Read/The Hitchhiker's Guide to Digital Colour/Question 14 What the Fuck is “White”.md",
+    "07/Read/The Hitchhiker's Guide to Digital Colour/Question 15 What the Fuck is “Perceptually Uniform”.md",
+    "07/Read/The Hitchhiker's Guide to Digital Colour/Question 16 What the Fuck is the Triangle Thingy in the Chromaticity Diagram.md",
+    "07/Read/The Hitchhiker's Guide to Digital Colour/Question 17 What the Fuck is a Colour Space.md",
+    "07/Read/The Hitchhiker's Guide to Digital Colour/Question 18 What the  Fuck is the Missing Axis in a Chromaticity Diagram.md",
+    "07/Read/The Hitchhiker's Guide to Digital Colour/Question 19 What the Fuck is a “Gamut”.md",
+    "07/Read/The Hitchhiker's Guide to Digital Colour/Question 20 What the Fuck is a Quantity of Light.md",
+    "07/Read/The Hitchhiker's Guide to Digital Colour/Question 21 How the Fuck do we Put a Red Pixel on the Screen.md",
+    "07/Read/The Hitchhiker's Guide to Digital Colour/Question 22 How the Fuck do we Move a Red Pixel.md",
+    "07/Read/The Hitchhiker's Guide to Digital Colour/Question 23 How the Fuck Do We Move a Red Pixel Down Over Another Colour.md",
+    "07/Read/The Hitchhiker's Guide to Digital Colour/Question 24 How the Fuck Do We Move a Red Pixel Down and Block Another Pixel’s Emission.md",
+    "07/Read/The Hitchhiker's Guide to Digital Colour/Question 25 What the Fuck is Alpha.md",
+    "07/Read/The Hitchhiker's Guide to Digital Colour/Question 26 What the Fuck is Stimulus Colour.md",
+    "07/Read/The Hitchhiker's Guide to Digital Colour/Question 27 What the Fuck is Perceptual Colour.md",
+    "07/Read/The Hitchhiker's Guide to Digital Colour/Question 28 What the Fuck is the Difference Between Affect and Effect (And What the Fck is Rashomon).md",
+    "07/Read/The Hitchhiker's Guide to Digital Colour/Question 29 What the Fuck is Intensity, Again.md",
+    "07/Read/The Hitchhiker's Guide to Digital Colour/Question 30 What is the Fucking “Colour” of Light.md",
+    "07/Read/The Hitchhiker's Guide to Digital Colour/Question 31 What the Fuck is Colour.md",
+    "07/Read/The Hitchhiker's Guide to Digital Colour/Question 32  Does the Fucking “Colour” of the Light Change When We Increase or Decrease the Quantity of Light.md",
+    "07/Read/The Hitchhiker's Guide to Digital Colour/Question 33 What the Fuck are the Colours of the Three Lights.md",
+    "08/Plugins/Aosr.md",
+    "08/Plugins/Badge Plugin.md",
+    "08/Plugins/Badges.md",
+    "08/Plugins/Buttons.md",
+    "08/Plugins/Charts View.md",
+    "08/Plugins/Code Emitter.md",
+    "08/Plugins/Code Styler Plugin.md",
+    "08/Plugins/Columns.md",
+    "08/Plugins/Contribution Graph.md",
+    "08/Plugins/Habit Tracker 21.md",
+    "08/Plugins/Heatmap Tracker plugin for Obsidian.md",
+    "08/Plugins/Modal Form Plugin.md",
+    "08/Plugins/Mood Tracker.md",
+    "08/Plugins/Multi-Column Markdown.md",
+    "08/Plugins/Note gallery.md",
+    "08/Plugins/Obsidian Dataview.md",
+    "08/Plugins/Obsidian ProgressBar.md",
+    "08/Plugins/Page Gallery.md",
+    "08/Plugins/Periodic Notes.md",
+    "08/Plugins/QuickAdd.md",
+    "08/Plugins/ReadItLater.md",
+    "08/Plugins/Style Settings.md",
+    "08/Plugins/Tabs.md",
+    "08/Plugins/Toggl Track.md",
+    "08/Plugins/Tracker.md",
+    "08/Plugins/Writing Goals.md",
+    "08/Plugins/Yesterday.md",
+    "08/Syntax/Adding Metadata.md",
+    "08/Syntax/Advanced formatting syntax.md",
+    "08/Syntax/Basic formatting syntax.md",
+    "08/Syntax/Data Types.md",
+    "08/Syntax/Dataview.md",
+    "08/Syntax/Dataview Query Language.md",
+    "08/Syntax/DQL, JS and Inlines.md",
+    "08/Syntax/Metadata on pages.md",
+    "08/Syntax/Metadata on Tasks and Lists.md",
+    "08/Themes/Blue Topaz.md",
+    "08/Themes/Chime.md",
+    "08/Themes/Light & Bright.md",
+    "08/Themes/PLN.md",
+    "08/Themes/README.md",
+    "08/Themes/Royal Velvet Obsidian Theme.md",
+    "08/Themes/Vicious.md",
+    "08/Hotkeys.md",
+    "08/Markdown.md",
+    "99/CSS/Cssclasses.md",
+    "99/CSS/Page Colors.canvas",
+    "99/CSS/Page View.md",
+    "99/CSS/Pen Colors.md",
+    "99/Template/Activity.md",
+    "99/Template/Channel.md",
+    "99/Template/Col.md",
+    "99/Template/Daily.md",
+    "99/Template/excalidraw.md",
+    "99/Template/Goal.md",
+    "99/Template/Heatmap Tracker.md",
+    "99/Template/Heatmap Year Tracker.md",
+    "99/Template/Month.md",
+    "99/Template/note.Note.md",
+    "99/Template/Plan.md",
+    "99/Template/Playlist.md",
+    "99/Template/Project.md",
+    "99/Template/Read.md",
+    "99/Template/Skincare.md",
+    "99/Template/Toggl.md",
+    "99/Template/Untitled.md",
+    "99/00 Daily.md",
+    "99/Alphabetical Note Index.md",
+    "99/flashcards.md",
+    "99/Index.md",
+    "99/Life.md",
+    "99/Untitled.md",
+    "99/Untitled 2.md",
+    "99/Untitled 3.md",
+    "Untitled 14 - todo.md",
+    "used_links1737997853023.md",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/fonts/MathJax_Zero.woff",
+    "lib/fonts/MathJax_Main-Regular.woff",
+    "lib/fonts/MathJax_Main-Bold.woff",
+    "lib/fonts/MathJax_Math-Italic.woff",
+    "lib/fonts/MathJax_Main-Italic.woff",
+    "lib/fonts/MathJax_Math-BoldItalic.woff",
+    "lib/fonts/MathJax_Size1-Regular.woff",
+    "lib/fonts/MathJax_Size2-Regular.woff",
+    "lib/fonts/MathJax_Size3-Regular.woff",
+    "lib/fonts/MathJax_Size4-Regular.woff",
+    "lib/fonts/MathJax_AMS-Regular.woff",
+    "lib/fonts/MathJax_Calligraphic-Regular.woff",
+    "lib/fonts/MathJax_Calligraphic-Bold.woff",
+    "lib/fonts/MathJax_Fraktur-Regular.woff",
+    "lib/fonts/MathJax_Fraktur-Bold.woff",
+    "lib/fonts/MathJax_SansSerif-Regular.woff",
+    "lib/fonts/MathJax_SansSerif-Bold.woff",
+    "lib/fonts/MathJax_SansSerif-Italic.woff",
+    "lib/fonts/MathJax_Script-Regular.woff",
+    "lib/fonts/MathJax_Typewriter-Regular.woff",
+    "lib/fonts/MathJax_Vector-Regular.woff",
+    "lib/fonts/MathJax_Vector-Bold.woff"
+  ],
+  "mainDependencies": [
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/fonts/MathJax_Zero.woff",
+    "lib/fonts/MathJax_Main-Regular.woff",
+    "lib/fonts/MathJax_Main-Bold.woff",
+    "lib/fonts/MathJax_Math-Italic.woff",
+    "lib/fonts/MathJax_Main-Italic.woff",
+    "lib/fonts/MathJax_Math-BoldItalic.woff",
+    "lib/fonts/MathJax_Size1-Regular.woff",
+    "lib/fonts/MathJax_Size2-Regular.woff",
+    "lib/fonts/MathJax_Size3-Regular.woff",
+    "lib/fonts/MathJax_Size4-Regular.woff",
+    "lib/fonts/MathJax_AMS-Regular.woff",
+    "lib/fonts/MathJax_Calligraphic-Regular.woff",
+    "lib/fonts/MathJax_Calligraphic-Bold.woff",
+    "lib/fonts/MathJax_Fraktur-Regular.woff",
+    "lib/fonts/MathJax_Fraktur-Bold.woff",
+    "lib/fonts/MathJax_SansSerif-Regular.woff",
+    "lib/fonts/MathJax_SansSerif-Bold.woff",
+    "lib/fonts/MathJax_SansSerif-Italic.woff",
+    "lib/fonts/MathJax_Script-Regular.woff",
+    "lib/fonts/MathJax_Typewriter-Regular.woff",
+    "lib/fonts/MathJax_Vector-Regular.woff",
+    "lib/fonts/MathJax_Vector-Bold.woff"
+  ],
+  "fileInfo": {
+    "00 Daily/05/2024-05-21.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 87,
+      "exportedPath": "00 Daily/05/2024-05-21.html",
+      "dependencies": []
+    },
+    "00 Daily/05/2024-05-22.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 405,
+      "exportedPath": "00 Daily/05/2024-05-22.html",
+      "dependencies": []
+    },
+    "00 Daily/06/2024-06-01.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 602,
+      "exportedPath": "00 Daily/06/2024-06-01.html",
+      "dependencies": []
+    },
+    "00 Daily/06/2024-06-02.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 678,
+      "exportedPath": "00 Daily/06/2024-06-02.html",
+      "dependencies": []
+    },
+    "00 Daily/06/2024-06-03.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 745,
+      "exportedPath": "00 Daily/06/2024-06-03.html",
+      "dependencies": []
+    },
+    "00 Daily/06/2024-06-04.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 602,
+      "exportedPath": "00 Daily/06/2024-06-04.html",
+      "dependencies": []
+    },
+    "00 Daily/06/2024-06-05.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 711,
+      "exportedPath": "00 Daily/06/2024-06-05.html",
+      "dependencies": []
+    },
+    "00 Daily/06/2024-06-06.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 359,
+      "exportedPath": "00 Daily/06/2024-06-06.html",
+      "dependencies": []
+    },
+    "00 Daily/06/2024-06-07.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 624,
+      "exportedPath": "00 Daily/06/2024-06-07.html",
+      "dependencies": []
+    },
+    "00 Daily/06/2024-06-08.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 446,
+      "exportedPath": "00 Daily/06/2024-06-08.html",
+      "dependencies": []
+    },
+    "00 Daily/06/2024-06-09.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 814,
+      "exportedPath": "00 Daily/06/2024-06-09.html",
+      "dependencies": []
+    },
+    "00 Daily/06/2024-06-10.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 734,
+      "exportedPath": "00 Daily/06/2024-06-10.html",
+      "dependencies": []
+    },
+    "00 Daily/06/2024-06-11.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 629,
+      "exportedPath": "00 Daily/06/2024-06-11.html",
+      "dependencies": []
+    },
+    "00 Daily/06/2024-06-12.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 631,
+      "exportedPath": "00 Daily/06/2024-06-12.html",
+      "dependencies": []
+    },
+    "00 Daily/06/2024-06-13.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 955,
+      "exportedPath": "00 Daily/06/2024-06-13.html",
+      "dependencies": []
+    },
+    "00 Daily/06/2024-06-14.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 448,
+      "exportedPath": "00 Daily/06/2024-06-14.html",
+      "dependencies": []
+    },
+    "00 Daily/06/2024-06-15.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 405,
+      "exportedPath": "00 Daily/06/2024-06-15.html",
+      "dependencies": []
+    },
+    "00 Daily/06/2024-06-16.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 323,
+      "exportedPath": "00 Daily/06/2024-06-16.html",
+      "dependencies": []
+    },
+    "00 Daily/06/2024-06-17.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 457,
+      "exportedPath": "00 Daily/06/2024-06-17.html",
+      "dependencies": []
+    },
+    "00 Daily/06/2024-06-18.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 494,
+      "exportedPath": "00 Daily/06/2024-06-18.html",
+      "dependencies": []
+    },
+    "00 Daily/06/2024-06-19.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 330,
+      "exportedPath": "00 Daily/06/2024-06-19.html",
+      "dependencies": []
+    },
+    "00 Daily/06/2024-06-20.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 342,
+      "exportedPath": "00 Daily/06/2024-06-20.html",
+      "dependencies": []
+    },
+    "00 Daily/06/2024-06-21.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 294,
+      "exportedPath": "00 Daily/06/2024-06-21.html",
+      "dependencies": []
+    },
+    "00 Daily/06/2024-06-22.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 312,
+      "exportedPath": "00 Daily/06/2024-06-22.html",
+      "dependencies": []
+    },
+    "00 Daily/06/2024-06-23.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 506,
+      "exportedPath": "00 Daily/06/2024-06-23.html",
+      "dependencies": []
+    },
+    "00 Daily/06/2024-06-24.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 486,
+      "exportedPath": "00 Daily/06/2024-06-24.html",
+      "dependencies": []
+    },
+    "00 Daily/06/2024-06-25.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 591,
+      "exportedPath": "00 Daily/06/2024-06-25.html",
+      "dependencies": []
+    },
+    "00 Daily/06/2024-06-26.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 396,
+      "exportedPath": "00 Daily/06/2024-06-26.html",
+      "dependencies": []
+    },
+    "00 Daily/06/2024-06-27.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 461,
+      "exportedPath": "00 Daily/06/2024-06-27.html",
+      "dependencies": []
+    },
+    "00 Daily/06/2024-06-28.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 464,
+      "exportedPath": "00 Daily/06/2024-06-28.html",
+      "dependencies": []
+    },
+    "00 Daily/06/2024-06-29.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 523,
+      "exportedPath": "00 Daily/06/2024-06-29.html",
+      "dependencies": []
+    },
+    "00 Daily/06/2024-06-30.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 508,
+      "exportedPath": "00 Daily/06/2024-06-30.html",
+      "dependencies": []
+    },
+    "00 Daily/07/2024-07-01.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 560,
+      "exportedPath": "00 Daily/07/2024-07-01.html",
+      "dependencies": []
+    },
+    "00 Daily/07/2024-07-02.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 539,
+      "exportedPath": "00 Daily/07/2024-07-02.html",
+      "dependencies": []
+    },
+    "00 Daily/07/2024-07-03.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 811,
+      "exportedPath": "00 Daily/07/2024-07-03.html",
+      "dependencies": []
+    },
+    "00 Daily/07/2024-07-04.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 473,
+      "exportedPath": "00 Daily/07/2024-07-04.html",
+      "dependencies": []
+    },
+    "00 Daily/07/2024-07-05.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 802,
+      "exportedPath": "00 Daily/07/2024-07-05.html",
+      "dependencies": []
+    },
+    "00 Daily/07/2024-07-06.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 498,
+      "exportedPath": "00 Daily/07/2024-07-06.html",
+      "dependencies": []
+    },
+    "00 Daily/07/2024-07-07.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 583,
+      "exportedPath": "00 Daily/07/2024-07-07.html",
+      "dependencies": []
+    },
+    "00 Daily/07/2024-07-08.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 799,
+      "exportedPath": "00 Daily/07/2024-07-08.html",
+      "dependencies": []
+    },
+    "00 Daily/07/2024-07-09.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 319,
+      "exportedPath": "00 Daily/07/2024-07-09.html",
+      "dependencies": []
+    },
+    "00 Daily/07/2024-07-10.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 500,
+      "exportedPath": "00 Daily/07/2024-07-10.html",
+      "dependencies": []
+    },
+    "00 Daily/07/2024-07-11.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 953,
+      "exportedPath": "00 Daily/07/2024-07-11.html",
+      "dependencies": []
+    },
+    "00 Daily/07/2024-07-12.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 373,
+      "exportedPath": "00 Daily/07/2024-07-12.html",
+      "dependencies": []
+    },
+    "00 Daily/07/2024-07-13.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 919,
+      "exportedPath": "00 Daily/07/2024-07-13.html",
+      "dependencies": []
+    },
+    "00 Daily/07/2024-07-14.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 594,
+      "exportedPath": "00 Daily/07/2024-07-14.html",
+      "dependencies": []
+    },
+    "00 Daily/07/2024-07-15.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 553,
+      "exportedPath": "00 Daily/07/2024-07-15.html",
+      "dependencies": []
+    },
+    "00 Daily/07/2024-07-16.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 576,
+      "exportedPath": "00 Daily/07/2024-07-16.html",
+      "dependencies": []
+    },
+    "00 Daily/07/2024-07-17.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 447,
+      "exportedPath": "00 Daily/07/2024-07-17.html",
+      "dependencies": []
+    },
+    "00 Daily/07/2024-07-18.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 506,
+      "exportedPath": "00 Daily/07/2024-07-18.html",
+      "dependencies": []
+    },
+    "00 Daily/07/2024-07-19.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 686,
+      "exportedPath": "00 Daily/07/2024-07-19.html",
+      "dependencies": []
+    },
+    "00 Daily/07/2024-07-20.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 721,
+      "exportedPath": "00 Daily/07/2024-07-20.html",
+      "dependencies": []
+    },
+    "00 Daily/07/2024-07-21.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 742,
+      "exportedPath": "00 Daily/07/2024-07-21.html",
+      "dependencies": []
+    },
+    "00 Daily/07/2024-07-22.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 570,
+      "exportedPath": "00 Daily/07/2024-07-22.html",
+      "dependencies": []
+    },
+    "00 Daily/07/2024-07-23.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 418,
+      "exportedPath": "00 Daily/07/2024-07-23.html",
+      "dependencies": []
+    },
+    "00 Daily/07/2024-07-24.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 558,
+      "exportedPath": "00 Daily/07/2024-07-24.html",
+      "dependencies": []
+    },
+    "00 Daily/07/2024-07-25.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 597,
+      "exportedPath": "00 Daily/07/2024-07-25.html",
+      "dependencies": []
+    },
+    "00 Daily/07/2024-07-26.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 660,
+      "exportedPath": "00 Daily/07/2024-07-26.html",
+      "dependencies": []
+    },
+    "00 Daily/07/2024-07-27.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 440,
+      "exportedPath": "00 Daily/07/2024-07-27.html",
+      "dependencies": []
+    },
+    "00 Daily/07/2024-07-28.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 256,
+      "exportedPath": "00 Daily/07/2024-07-28.html",
+      "dependencies": []
+    },
+    "00 Daily/07/2024-07-29.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 441,
+      "exportedPath": "00 Daily/07/2024-07-29.html",
+      "dependencies": []
+    },
+    "00 Daily/07/2024-07-30.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 604,
+      "exportedPath": "00 Daily/07/2024-07-30.html",
+      "dependencies": []
+    },
+    "00 Daily/07/2024-07-31.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 572,
+      "exportedPath": "00 Daily/07/2024-07-31.html",
+      "dependencies": []
+    },
+    "00 Daily/08/2024-08-01.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 2628,
+      "exportedPath": "00 Daily/08/2024-08-01.html",
+      "dependencies": []
+    },
+    "00 Daily/08/2024-08-02.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 473,
+      "exportedPath": "00 Daily/08/2024-08-02.html",
+      "dependencies": []
+    },
+    "00 Daily/08/2024-08-05.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 338,
+      "exportedPath": "00 Daily/08/2024-08-05.html",
+      "dependencies": []
+    },
+    "00 Daily/08/2024-08-09.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 379,
+      "exportedPath": "00 Daily/08/2024-08-09.html",
+      "dependencies": []
+    },
+    "00 Daily/08/2024-08-10.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 371,
+      "exportedPath": "00 Daily/08/2024-08-10.html",
+      "dependencies": []
+    },
+    "00 Daily/08/2024-08-12.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 388,
+      "exportedPath": "00 Daily/08/2024-08-12.html",
+      "dependencies": []
+    },
+    "00 Daily/08/2024-08-13.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 278,
+      "exportedPath": "00 Daily/08/2024-08-13.html",
+      "dependencies": []
+    },
+    "00 Daily/08/2024-08-14.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 528,
+      "exportedPath": "00 Daily/08/2024-08-14.html",
+      "dependencies": []
+    },
+    "00 Daily/08/2024-08-15.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 443,
+      "exportedPath": "00 Daily/08/2024-08-15.html",
+      "dependencies": []
+    },
+    "00 Daily/08/2024-08-17.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 340,
+      "exportedPath": "00 Daily/08/2024-08-17.html",
+      "dependencies": []
+    },
+    "00 Daily/08/2024-08-18.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 588,
+      "exportedPath": "00 Daily/08/2024-08-18.html",
+      "dependencies": []
+    },
+    "00 Daily/08/2024-08-19.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 396,
+      "exportedPath": "00 Daily/08/2024-08-19.html",
+      "dependencies": []
+    },
+    "00 Daily/08/2024-08-20.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 404,
+      "exportedPath": "00 Daily/08/2024-08-20.html",
+      "dependencies": []
+    },
+    "00 Daily/08/2024-08-22.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 293,
+      "exportedPath": "00 Daily/08/2024-08-22.html",
+      "dependencies": []
+    },
+    "00 Daily/08/2024-08-23.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 403,
+      "exportedPath": "00 Daily/08/2024-08-23.html",
+      "dependencies": []
+    },
+    "00 Daily/08/2024-08-24.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 487,
+      "exportedPath": "00 Daily/08/2024-08-24.html",
+      "dependencies": []
+    },
+    "00 Daily/11/2024-11-18.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 2560,
+      "exportedPath": "00 Daily/11/2024-11-18.html",
+      "dependencies": []
+    },
+    "00 Daily/11/2024-11-19.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 2274,
+      "exportedPath": "00 Daily/11/2024-11-19.html",
+      "dependencies": []
+    },
+    "00 Daily/11/2024-11-20.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 1756,
+      "exportedPath": "00 Daily/11/2024-11-20.html",
+      "dependencies": []
+    },
+    "00 Daily/11/2024-11-21.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 14689,
+      "exportedPath": "00 Daily/11/2024-11-21.html",
+      "dependencies": []
+    },
+    "00 Daily/11/2024-11-22.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 7541,
+      "exportedPath": "00 Daily/11/2024-11-22.html",
+      "dependencies": []
+    },
+    "00 Daily/2025-01-27.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 1345,
+      "exportedPath": "00 Daily/2025-01-27.html",
+      "dependencies": []
+    },
+    "00 Daily/2025-01-28.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 612,
+      "exportedPath": "00 Daily/2025-01-28.html",
+      "dependencies": []
+    },
+    "01 Maps/Tags/channel.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 288,
+      "exportedPath": "01 Maps/Tags/channel.html",
+      "dependencies": []
+    },
+    "01 Maps/Tags/playlist.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 269,
+      "exportedPath": "01 Maps/Tags/playlist.html",
+      "dependencies": []
+    },
+    "01 Maps/Tags/project.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 142,
+      "exportedPath": "01 Maps/Tags/project.html",
+      "dependencies": []
+    },
+    "01 Maps/Tags/video 3D.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 175,
+      "exportedPath": "01 Maps/Tags/video 3D.html",
+      "dependencies": []
+    },
+    "01 Maps/Tags/video animation.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 168,
+      "exportedPath": "01 Maps/Tags/video animation.html",
+      "dependencies": []
+    },
+    "01 Maps/Tags/YouTube.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 148,
+      "exportedPath": "01 Maps/Tags/YouTube.html",
+      "dependencies": []
+    },
+    "01 Maps/Themes/Notes.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 67,
+      "exportedPath": "01 Maps/Themes/Notes.html",
+      "dependencies": []
+    },
+    "01 Maps/Themes/Resources.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 29,
+      "exportedPath": "01 Maps/Themes/Resources.html",
+      "dependencies": []
+    },
+    "01 Maps/Themes/Tags.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 1697,
+      "exportedPath": "01 Maps/Themes/Tags.html",
+      "dependencies": []
+    },
+    "01 Maps/Topics/Color Management.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 307,
+      "exportedPath": "01 Maps/Topics/Color Management.html",
+      "dependencies": []
+    },
+    "01 Maps/Topics/The Hitchhiker's Guide to Digital Colour.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 821,
+      "exportedPath": "01 Maps/Topics/The Hitchhiker's Guide to Digital Colour.html",
+      "dependencies": []
+    },
+    "01 Maps/YouTube/Channels/3dEx.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 360,
+      "exportedPath": "01 Maps/YouTube/Channels/3dEx.html",
+      "dependencies": []
+    },
+    "01 Maps/YouTube/Channels/Abe Leal 3D.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 466,
+      "exportedPath": "01 Maps/YouTube/Channels/Abe Leal 3D.html",
+      "dependencies": []
+    },
+    "01 Maps/YouTube/Channels/Alex on Story.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 426,
+      "exportedPath": "01 Maps/YouTube/Channels/Alex on Story.html",
+      "dependencies": []
+    },
+    "01 Maps/YouTube/Channels/CGMatter.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 416,
+      "exportedPath": "01 Maps/YouTube/Channels/CGMatter.html",
+      "dependencies": []
+    },
+    "01 Maps/YouTube/Channels/CrossMind Studio.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 708,
+      "exportedPath": "01 Maps/YouTube/Channels/CrossMind Studio.html",
+      "dependencies": []
+    },
+    "01 Maps/YouTube/Channels/Daniel Krafft.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 422,
+      "exportedPath": "01 Maps/YouTube/Channels/Daniel Krafft.html",
+      "dependencies": []
+    },
+    "01 Maps/YouTube/Channels/Dédouze.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 410,
+      "exportedPath": "01 Maps/YouTube/Channels/Dédouze.html",
+      "dependencies": []
+    },
+    "01 Maps/YouTube/Channels/Dikko.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 477,
+      "exportedPath": "01 Maps/YouTube/Channels/Dikko.html",
+      "dependencies": []
+    },
+    "01 Maps/YouTube/Channels/Doodley.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 399,
+      "exportedPath": "01 Maps/YouTube/Channels/Doodley.html",
+      "dependencies": []
+    },
+    "01 Maps/YouTube/Channels/FlippedNormals.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 418,
+      "exportedPath": "01 Maps/YouTube/Channels/FlippedNormals.html",
+      "dependencies": []
+    },
+    "01 Maps/YouTube/Channels/Freya Holmér.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 414,
+      "exportedPath": "01 Maps/YouTube/Channels/Freya Holmér.html",
+      "dependencies": []
+    },
+    "01 Maps/YouTube/Channels/Grant Abbitt.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 347,
+      "exportedPath": "01 Maps/YouTube/Channels/Grant Abbitt.html",
+      "dependencies": []
+    },
+    "01 Maps/YouTube/Channels/Joey Carlino.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 416,
+      "exportedPath": "01 Maps/YouTube/Channels/Joey Carlino.html",
+      "dependencies": []
+    },
+    "01 Maps/YouTube/Channels/Lightning Boy Studio.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 435,
+      "exportedPath": "01 Maps/YouTube/Channels/Lightning Boy Studio.html",
+      "dependencies": []
+    },
+    "01 Maps/YouTube/Channels/Motion Design School.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 434,
+      "exportedPath": "01 Maps/YouTube/Channels/Motion Design School.html",
+      "dependencies": []
+    },
+    "01 Maps/YouTube/Channels/New Plastic.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 410,
+      "exportedPath": "01 Maps/YouTube/Channels/New Plastic.html",
+      "dependencies": []
+    },
+    "01 Maps/YouTube/Channels/Nexttut.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 524,
+      "exportedPath": "01 Maps/YouTube/Channels/Nexttut.html",
+      "dependencies": []
+    },
+    "01 Maps/YouTube/Channels/Phoerens.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 797,
+      "exportedPath": "01 Maps/YouTube/Channels/Phoerens.html",
+      "dependencies": []
+    },
+    "01 Maps/YouTube/Channels/sociamix.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 400,
+      "exportedPath": "01 Maps/YouTube/Channels/sociamix.html",
+      "dependencies": []
+    },
+    "01 Maps/YouTube/Channels/SouthernShotty.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 420,
+      "exportedPath": "01 Maps/YouTube/Channels/SouthernShotty.html",
+      "dependencies": []
+    },
+    "01 Maps/YouTube/Channels/Stylized Station.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 426,
+      "exportedPath": "01 Maps/YouTube/Channels/Stylized Station.html",
+      "dependencies": []
+    },
+    "01 Maps/YouTube/Channels/TipTut.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 384,
+      "exportedPath": "01 Maps/YouTube/Channels/TipTut.html",
+      "dependencies": []
+    },
+    "01 Maps/YouTube/Playlist/Anatomy Quick Tips.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 3162,
+      "exportedPath": "01 Maps/YouTube/Playlist/Anatomy Quick Tips.html",
+      "dependencies": []
+    },
+    "01 Maps/YouTube/Playlist/Animated Content Creation.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 448,
+      "exportedPath": "01 Maps/YouTube/Playlist/Animated Content Creation.html",
+      "dependencies": []
+    },
+    "01 Maps/YouTube/Playlist/Bespoke Synth - Modular DAW Tutorials and Projects.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 1619,
+      "exportedPath": "01 Maps/YouTube/Playlist/Bespoke Synth - Modular DAW Tutorials and Projects.html",
+      "dependencies": []
+    },
+    "01 Maps/YouTube/Playlist/CGI for Product Advertising.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 3484,
+      "exportedPath": "01 Maps/YouTube/Playlist/CGI for Product Advertising.html",
+      "dependencies": []
+    },
+    "01 Maps/YouTube/Playlist/Creating a Mega Character.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 1016,
+      "exportedPath": "01 Maps/YouTube/Playlist/Creating a Mega Character.html",
+      "dependencies": []
+    },
+    "01 Maps/YouTube/Playlist/Creating Backgrounds.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 3741,
+      "exportedPath": "01 Maps/YouTube/Playlist/Creating Backgrounds.html",
+      "dependencies": []
+    },
+    "01 Maps/YouTube/Playlist/Demo reel dash.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 314,
+      "exportedPath": "01 Maps/YouTube/Playlist/Demo reel dash.html",
+      "dependencies": []
+    },
+    "01 Maps/YouTube/Playlist/Full VFX Course - Houdini Is Hip.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 703,
+      "exportedPath": "01 Maps/YouTube/Playlist/Full VFX Course - Houdini Is Hip.html",
+      "dependencies": []
+    },
+    "01 Maps/YouTube/Playlist/Game Ready 3D Enemy Minion.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 598,
+      "exportedPath": "01 Maps/YouTube/Playlist/Game Ready 3D Enemy Minion.html",
+      "dependencies": []
+    },
+    "01 Maps/YouTube/Playlist/Geometry Nodes For Beginners - Blender 3D.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 3336,
+      "exportedPath": "01 Maps/YouTube/Playlist/Geometry Nodes For Beginners - Blender 3D.html",
+      "dependencies": []
+    },
+    "01 Maps/YouTube/Playlist/Get Good at Blender.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 3028,
+      "exportedPath": "01 Maps/YouTube/Playlist/Get Good at Blender.html",
+      "dependencies": []
+    },
+    "01 Maps/YouTube/Playlist/Get Good at Blender 2.8.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 609,
+      "exportedPath": "01 Maps/YouTube/Playlist/Get Good at Blender 2.8.html",
+      "dependencies": []
+    },
+    "01 Maps/YouTube/Playlist/Getting Started with Substance Painter 2021.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 504,
+      "exportedPath": "01 Maps/YouTube/Playlist/Getting Started with Substance Painter 2021.html",
+      "dependencies": []
+    },
+    "01 Maps/YouTube/Playlist/LookdevX.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 570,
+      "exportedPath": "01 Maps/YouTube/Playlist/LookdevX.html",
+      "dependencies": []
+    },
+    "01 Maps/YouTube/Playlist/LuxCore Render for Blender.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 309,
+      "exportedPath": "01 Maps/YouTube/Playlist/LuxCore Render for Blender.html",
+      "dependencies": []
+    },
+    "01 Maps/YouTube/Playlist/Mantaflow.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 275,
+      "exportedPath": "01 Maps/YouTube/Playlist/Mantaflow.html",
+      "dependencies": []
+    },
+    "01 Maps/YouTube/Playlist/Modeling for Animation!.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 1105,
+      "exportedPath": "01 Maps/YouTube/Playlist/Modeling for Animation!.html",
+      "dependencies": []
+    },
+    "01 Maps/YouTube/Playlist/Natron Compositor Tutorials.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 94,
+      "exportedPath": "01 Maps/YouTube/Playlist/Natron Compositor Tutorials.html",
+      "dependencies": []
+    },
+    "01 Maps/YouTube/Playlist/Rigging Characters in Blender.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 315,
+      "exportedPath": "01 Maps/YouTube/Playlist/Rigging Characters in Blender.html",
+      "dependencies": []
+    },
+    "01 Maps/YouTube/Playlist/Rigid Body Dynamics.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 3180,
+      "exportedPath": "01 Maps/YouTube/Playlist/Rigid Body Dynamics.html",
+      "dependencies": []
+    },
+    "01 Maps/YouTube/Playlist/Stylized Character Bust.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 394,
+      "exportedPath": "01 Maps/YouTube/Playlist/Stylized Character Bust.html",
+      "dependencies": []
+    },
+    "01 Maps/YouTube/Playlist/The Creature Design Workshop.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 991,
+      "exportedPath": "01 Maps/YouTube/Playlist/The Creature Design Workshop.html",
+      "dependencies": []
+    },
+    "01 Maps/YouTube/Playlist/Ultimate Beginner's Guide to Creating 3D Stylized Environments.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 780,
+      "exportedPath": "01 Maps/YouTube/Playlist/Ultimate Beginner's Guide to Creating 3D Stylized Environments.html",
+      "dependencies": []
+    },
+    "02 Review/Canvas/Activity.canvas": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 526,
+      "exportedPath": "02 Review/Canvas/Activity.html",
+      "dependencies": []
+    },
+    "02 Review/Canvas/Diet.canvas": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 9641,
+      "exportedPath": "02 Review/Canvas/Diet.html",
+      "dependencies": []
+    },
+    "02 Review/Dataview/Dataview.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 364,
+      "exportedPath": "02 Review/Dataview/Dataview.html",
+      "dependencies": []
+    },
+    "02 Review/Dataview/Diet.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 780,
+      "exportedPath": "02 Review/Dataview/Diet.html",
+      "dependencies": []
+    },
+    "02 Review/Dataview/Food.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 473,
+      "exportedPath": "02 Review/Dataview/Food.html",
+      "dependencies": []
+    },
+    "02 Review/Dataview/Gallery.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 753,
+      "exportedPath": "02 Review/Dataview/Gallery.html",
+      "dependencies": []
+    },
+    "02 Review/Dataview/Notes Gallery.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 153,
+      "exportedPath": "02 Review/Dataview/Notes Gallery.html",
+      "dependencies": []
+    },
+    "02 Review/Dataview/Products.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 343,
+      "exportedPath": "02 Review/Dataview/Products.html",
+      "dependencies": []
+    },
+    "02 Review/Skincare/AM.png": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 248244,
+      "exportedPath": "02 Review/Skincare/AM.png",
+      "dependencies": []
+    },
+    "02 Review/Skincare/Art&Fact.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 3194,
+      "exportedPath": "02 Review/Skincare/Art&Fact.html",
+      "dependencies": []
+    },
+    "02 Review/Skincare/Icon Skin.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 1512,
+      "exportedPath": "02 Review/Skincare/Icon Skin.html",
+      "dependencies": []
+    },
+    "02 Review/Skincare/Mask.png": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 279648,
+      "exportedPath": "02 Review/Skincare/Mask.png",
+      "dependencies": []
+    },
+    "02 Review/Skincare/New.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 127,
+      "exportedPath": "02 Review/Skincare/New.html",
+      "dependencies": []
+    },
+    "02 Review/Skincare/Onme.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 1375,
+      "exportedPath": "02 Review/Skincare/Onme.html",
+      "dependencies": []
+    },
+    "02 Review/Skincare/Other.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 1095,
+      "exportedPath": "02 Review/Skincare/Other.html",
+      "dependencies": []
+    },
+    "02 Review/Skincare/PM.png": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 231227,
+      "exportedPath": "02 Review/Skincare/PM.png",
+      "dependencies": []
+    },
+    "02 Review/Skincare/Skincare products.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 642,
+      "exportedPath": "02 Review/Skincare/Skincare products.html",
+      "dependencies": []
+    },
+    "02 Review/Cara.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 85,
+      "exportedPath": "02 Review/Cara.html",
+      "dependencies": []
+    },
+    "02 Review/Instagram.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 90,
+      "exportedPath": "02 Review/Instagram.html",
+      "dependencies": []
+    },
+    "02 Review/Kinopio.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 644,
+      "exportedPath": "02 Review/Kinopio.html",
+      "dependencies": []
+    },
+    "03 Code/Code blocks.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 818,
+      "exportedPath": "03 Code/Code blocks.html",
+      "dependencies": []
+    },
+    "03 Code/index.html.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 419,
+      "exportedPath": "03 Code/index.html.html",
+      "dependencies": []
+    },
+    "03 Code/readme.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 18222,
+      "exportedPath": "03 Code/readme.html",
+      "dependencies": []
+    },
+    "03 Code/readme (2).md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 58458,
+      "exportedPath": "03 Code/readme (2).html",
+      "dependencies": []
+    },
+    "04 Projects/Done/Blender Donut.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 2544,
+      "exportedPath": "04 Projects/Done/Blender Donut.html",
+      "dependencies": []
+    },
+    "04 Projects/Done/Character Design Contest.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 4695,
+      "exportedPath": "04 Projects/Done/Character Design Contest.html",
+      "dependencies": []
+    },
+    "04 Projects/Done/ED brochure.canvas": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 30970,
+      "exportedPath": "04 Projects/Done/ED brochure.html",
+      "dependencies": []
+    },
+    "04 Projects/Done/Maya Statue.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 265,
+      "exportedPath": "04 Projects/Done/Maya Statue.html",
+      "dependencies": []
+    },
+    "04 Projects/Done/Meet Mat 4.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 19770,
+      "exportedPath": "04 Projects/Done/Meet Mat 4.html",
+      "dependencies": []
+    },
+    "04 Projects/Done/Womp 3D.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 1512,
+      "exportedPath": "04 Projects/Done/Womp 3D.html",
+      "dependencies": []
+    },
+    "04 Projects/Portfolio/Animated character.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 846,
+      "exportedPath": "04 Projects/Portfolio/Animated character.html",
+      "dependencies": []
+    },
+    "04 Projects/Portfolio/Meet Meat.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 14005,
+      "exportedPath": "04 Projects/Portfolio/Meet Meat.html",
+      "dependencies": []
+    },
+    "04 Projects/Portfolio/Resting Pieces.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 2184,
+      "exportedPath": "04 Projects/Portfolio/Resting Pieces.html",
+      "dependencies": []
+    },
+    "04 Projects/Portfolio/Talking Head.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 1210,
+      "exportedPath": "04 Projects/Portfolio/Talking Head.html",
+      "dependencies": []
+    },
+    "04 Projects/To-Do/30 renders.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 553,
+      "exportedPath": "04 Projects/To-Do/30 renders.html",
+      "dependencies": []
+    },
+    "04 Projects/To-Do/100 projects.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 0,
+      "exportedPath": "04 Projects/To-Do/100 projects.html",
+      "dependencies": []
+    },
+    "04 Projects/To-Do/D&D.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 0,
+      "exportedPath": "04 Projects/To-Do/D&D.html",
+      "dependencies": []
+    },
+    "04 Projects/To-Do/Demo Reel.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 285,
+      "exportedPath": "04 Projects/To-Do/Demo Reel.html",
+      "dependencies": []
+    },
+    "04 Projects/To-Do/Monster Challenge.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 6935,
+      "exportedPath": "04 Projects/To-Do/Monster Challenge.html",
+      "dependencies": []
+    },
+    "04 Projects/To-Do/PDF portfolio.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 16,
+      "exportedPath": "04 Projects/To-Do/PDF portfolio.html",
+      "dependencies": []
+    },
+    "04 Projects/To-Do/Pokemons.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 78,
+      "exportedPath": "04 Projects/To-Do/Pokemons.html",
+      "dependencies": []
+    },
+    "04 Projects/Brain threads.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 15303,
+      "exportedPath": "04 Projects/Brain threads.html",
+      "dependencies": []
+    },
+    "04 Projects/Sculptober.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 2968,
+      "exportedPath": "04 Projects/Sculptober.html",
+      "dependencies": []
+    },
+    "05 Notes/3D/3D USD Masterclass Scene Assembly and Rendering.Note.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 1654,
+      "exportedPath": "05 Notes/3D/3D USD Masterclass Scene Assembly and Rendering.Note.html",
+      "dependencies": []
+    },
+    "05 Notes/3D/50 terms.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 5153,
+      "exportedPath": "05 Notes/3D/50 terms.html",
+      "dependencies": []
+    },
+    "05 Notes/3D/Eevee settings.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 1294,
+      "exportedPath": "05 Notes/3D/Eevee settings.html",
+      "dependencies": []
+    },
+    "05 Notes/3D/Mouth Animation.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 2059,
+      "exportedPath": "05 Notes/3D/Mouth Animation.html",
+      "dependencies": []
+    },
+    "05 Notes/Animation/Animation Basics in 14 Minutes (6 Big ideas for beginners).Note.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 5625,
+      "exportedPath": "05 Notes/Animation/Animation Basics in 14 Minutes (6 Big ideas for beginners).Note.html",
+      "dependencies": []
+    },
+    "05 Notes/Animation/How to Keyframe Like a Pro! (Animation process for any software).Note.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 847,
+      "exportedPath": "05 Notes/Animation/How to Keyframe Like a Pro! (Animation process for any software).Note.html",
+      "dependencies": []
+    },
+    "05 Notes/Animation/Should you PLAN your animation.Note.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 1075,
+      "exportedPath": "05 Notes/Animation/Should you PLAN your animation.Note.html",
+      "dependencies": []
+    },
+    "05 Notes/Animation/The Three Biggest Ideas in Animation.Note.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 2060,
+      "exportedPath": "05 Notes/Animation/The Three Biggest Ideas in Animation.Note.html",
+      "dependencies": []
+    },
+    "05 Notes/Animation/The Trickiest Animation Principle, Simplified.Note.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 2635,
+      "exportedPath": "05 Notes/Animation/The Trickiest Animation Principle, Simplified.Note.html",
+      "dependencies": []
+    },
+    "05 Notes/Mental/Anxiety & Depression Workbook.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 9177,
+      "exportedPath": "05 Notes/Mental/Anxiety & Depression Workbook.html",
+      "dependencies": []
+    },
+    "05 Notes/Mental/CHILDHOOD PTSD QUESTIONNAIRE.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 5070,
+      "exportedPath": "05 Notes/Mental/CHILDHOOD PTSD QUESTIONNAIRE.html",
+      "dependencies": []
+    },
+    "05 Notes/Mental/Helping the inner child heal from being the family scapegoat.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 3923,
+      "exportedPath": "05 Notes/Mental/Helping the inner child heal from being the family scapegoat.html",
+      "dependencies": []
+    },
+    "05 Notes/Mental/My inner child thinks.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 9112,
+      "exportedPath": "05 Notes/Mental/My inner child thinks.html",
+      "dependencies": []
+    },
+    "05 Notes/Mental/Non-negotiables, narcissistic people, and boundaries.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 8423,
+      "exportedPath": "05 Notes/Mental/Non-negotiables, narcissistic people, and boundaries.html",
+      "dependencies": []
+    },
+    "05 Notes/Science/Vectors & Dot Product • Math for Game Devs - Part 1.Note.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 1647,
+      "exportedPath": "05 Notes/Science/Vectors & Dot Product • Math for Game Devs - Part 1.Note.html",
+      "dependencies": []
+    },
+    "05 Notes/Graphic Design Resources.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 18199,
+      "exportedPath": "05 Notes/Graphic Design Resources.html",
+      "dependencies": []
+    },
+    "05 Notes/Substance Designer - Stylized Water Material.canvas": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 6226,
+      "exportedPath": "05 Notes/Substance Designer - Stylized Water Material.html",
+      "dependencies": []
+    },
+    "06 Plan/00/3D Animation Degree.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 20515,
+      "exportedPath": "06 Plan/00/3D Animation Degree.html",
+      "dependencies": []
+    },
+    "06 Plan/00/3D Animation Foundations.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 4670,
+      "exportedPath": "06 Plan/00/3D Animation Foundations.html",
+      "dependencies": []
+    },
+    "06 Plan/00/3D Animator Specialization.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 13740,
+      "exportedPath": "06 Plan/00/3D Animator Specialization.html",
+      "dependencies": []
+    },
+    "06 Plan/00/3D Modeler Specialization.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 4307,
+      "exportedPath": "06 Plan/00/3D Modeler Specialization.html",
+      "dependencies": []
+    },
+    "06 Plan/00/3D Modeling Degree.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 23138,
+      "exportedPath": "06 Plan/00/3D Modeling Degree.html",
+      "dependencies": []
+    },
+    "06 Plan/00/3D Modeling Essentials.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 30591,
+      "exportedPath": "06 Plan/00/3D Modeling Essentials.html",
+      "dependencies": []
+    },
+    "06 Plan/00/3D Modeling Foundations.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 4772,
+      "exportedPath": "06 Plan/00/3D Modeling Foundations.html",
+      "dependencies": []
+    },
+    "06 Plan/00/All 3D Courses.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 7824,
+      "exportedPath": "06 Plan/00/All 3D Courses.html",
+      "dependencies": []
+    },
+    "06 Plan/00/Animation exercises.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 15205,
+      "exportedPath": "06 Plan/00/Animation exercises.html",
+      "dependencies": []
+    },
+    "06 Plan/00/Rookie Awards.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 20174,
+      "exportedPath": "06 Plan/00/Rookie Awards.html",
+      "dependencies": []
+    },
+    "06 Plan/00/Rookie of the Year - 3D Animation.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 3303,
+      "exportedPath": "06 Plan/00/Rookie of the Year - 3D Animation.html",
+      "dependencies": []
+    },
+    "06 Plan/00/The Rookies.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 4769,
+      "exportedPath": "06 Plan/00/The Rookies.html",
+      "dependencies": []
+    },
+    "06 Plan/00/What should I animate - pt.1 demo reel.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 12458,
+      "exportedPath": "06 Plan/00/What should I animate - pt.1 demo reel.html",
+      "dependencies": []
+    },
+    "06 Plan/00/What should I animate - pt.2 exercises.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 4732,
+      "exportedPath": "06 Plan/00/What should I animate - pt.2 exercises.html",
+      "dependencies": []
+    },
+    "06 Plan/01/2024.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 258,
+      "exportedPath": "06 Plan/01/2024.html",
+      "dependencies": []
+    },
+    "06 Plan/01/2025.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 150,
+      "exportedPath": "06 Plan/01/2025.html",
+      "dependencies": []
+    },
+    "06 Plan/01/Goals.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 275,
+      "exportedPath": "06 Plan/01/Goals.html",
+      "dependencies": []
+    },
+    "06 Plan/01/Months.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 1597,
+      "exportedPath": "06 Plan/01/Months.html",
+      "dependencies": []
+    },
+    "06 Plan/01/Year.canvas": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 9399,
+      "exportedPath": "06 Plan/01/Year.html",
+      "dependencies": []
+    },
+    "06 Plan/02/24.08.August.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 2157,
+      "exportedPath": "06 Plan/02/24.08.August.html",
+      "dependencies": []
+    },
+    "06 Plan/02/24.09.September.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 3241,
+      "exportedPath": "06 Plan/02/24.09.September.html",
+      "dependencies": []
+    },
+    "06 Plan/02/24.10.October.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 792,
+      "exportedPath": "06 Plan/02/24.10.October.html",
+      "dependencies": []
+    },
+    "06 Plan/02/24.11.November.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 1424,
+      "exportedPath": "06 Plan/02/24.11.November.html",
+      "dependencies": []
+    },
+    "06 Plan/02/24.12.December.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 244,
+      "exportedPath": "06 Plan/02/24.12.December.html",
+      "dependencies": []
+    },
+    "06 Plan/02/25.01.January.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 2465,
+      "exportedPath": "06 Plan/02/25.01.January.html",
+      "dependencies": []
+    },
+    "06 Plan/03/2024-W34.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 1344,
+      "exportedPath": "06 Plan/03/2024-W34.html",
+      "dependencies": []
+    },
+    "06 Plan/03/2024-W35.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 873,
+      "exportedPath": "06 Plan/03/2024-W35.html",
+      "dependencies": []
+    },
+    "06 Plan/03/2024-W36.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 737,
+      "exportedPath": "06 Plan/03/2024-W36.html",
+      "dependencies": []
+    },
+    "06 Plan/03/2024-W37.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 1515,
+      "exportedPath": "06 Plan/03/2024-W37.html",
+      "dependencies": []
+    },
+    "06 Plan/03/2024-W38.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 859,
+      "exportedPath": "06 Plan/03/2024-W38.html",
+      "dependencies": []
+    },
+    "06 Plan/03/2024-W39.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 698,
+      "exportedPath": "06 Plan/03/2024-W39.html",
+      "dependencies": []
+    },
+    "06 Plan/04/Contests.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 249,
+      "exportedPath": "06 Plan/04/Contests.html",
+      "dependencies": []
+    },
+    "06 Plan/04/To Read.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 1061,
+      "exportedPath": "06 Plan/04/To Read.html",
+      "dependencies": []
+    },
+    "06 Plan/05/00/Animation.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 1698,
+      "exportedPath": "06 Plan/05/00/Animation.html",
+      "dependencies": []
+    },
+    "06 Plan/05/00/Characters.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 1359,
+      "exportedPath": "06 Plan/05/00/Characters.html",
+      "dependencies": []
+    },
+    "06 Plan/05/00/Compositing.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 954,
+      "exportedPath": "06 Plan/05/00/Compositing.html",
+      "dependencies": []
+    },
+    "06 Plan/05/00/Modeling.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 795,
+      "exportedPath": "06 Plan/05/00/Modeling.html",
+      "dependencies": []
+    },
+    "06 Plan/05/00/Sculpting.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 675,
+      "exportedPath": "06 Plan/05/00/Sculpting.html",
+      "dependencies": []
+    },
+    "06 Plan/05/01/Hard Surface.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 903,
+      "exportedPath": "06 Plan/05/01/Hard Surface.html",
+      "dependencies": []
+    },
+    "06 Plan/05/01/Low-Poly.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 219,
+      "exportedPath": "06 Plan/05/01/Low-Poly.html",
+      "dependencies": []
+    },
+    "06 Plan/05/01/Textures.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 882,
+      "exportedPath": "06 Plan/05/01/Textures.html",
+      "dependencies": []
+    },
+    "06 Plan/05/01/USD.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 25,
+      "exportedPath": "06 Plan/05/01/USD.html",
+      "dependencies": []
+    },
+    "06 Plan/05/02/After Effects.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 720,
+      "exportedPath": "06 Plan/05/02/After Effects.html",
+      "dependencies": []
+    },
+    "06 Plan/05/02/Blackmagic Fusion.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 219,
+      "exportedPath": "06 Plan/05/02/Blackmagic Fusion.html",
+      "dependencies": []
+    },
+    "06 Plan/05/02/Blender 3D.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 960,
+      "exportedPath": "06 Plan/05/02/Blender 3D.html",
+      "dependencies": []
+    },
+    "06 Plan/05/02/Houdini.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 493,
+      "exportedPath": "06 Plan/05/02/Houdini.html",
+      "dependencies": []
+    },
+    "06 Plan/05/02/KeyShot.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 171,
+      "exportedPath": "06 Plan/05/02/KeyShot.html",
+      "dependencies": []
+    },
+    "06 Plan/05/02/Marmoset Toolbag.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 391,
+      "exportedPath": "06 Plan/05/02/Marmoset Toolbag.html",
+      "dependencies": []
+    },
+    "06 Plan/05/02/Maya.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 781,
+      "exportedPath": "06 Plan/05/02/Maya.html",
+      "dependencies": []
+    },
+    "06 Plan/05/02/Natron.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 300,
+      "exportedPath": "06 Plan/05/02/Natron.html",
+      "dependencies": []
+    },
+    "06 Plan/05/02/Substanse Designer.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 310,
+      "exportedPath": "06 Plan/05/02/Substanse Designer.html",
+      "dependencies": []
+    },
+    "06 Plan/05/02/Substanse painter.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 785,
+      "exportedPath": "06 Plan/05/02/Substanse painter.html",
+      "dependencies": []
+    },
+    "06 Plan/05/02/ZBrush.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 624,
+      "exportedPath": "06 Plan/05/02/ZBrush.html",
+      "dependencies": []
+    },
+    "06 Plan/06/Goal.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 182,
+      "exportedPath": "06 Plan/06/Goal.html",
+      "dependencies": []
+    },
+    "06 Plan/06/Kanban.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 889,
+      "exportedPath": "06 Plan/06/Kanban.html",
+      "dependencies": []
+    },
+    "06 Plan/06/Month.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 282,
+      "exportedPath": "06 Plan/06/Month.html",
+      "dependencies": []
+    },
+    "06 Plan/06/Plan.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 204,
+      "exportedPath": "06 Plan/06/Plan.html",
+      "dependencies": []
+    },
+    "06 Plan/06/Project.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 386,
+      "exportedPath": "06 Plan/06/Project.html",
+      "dependencies": []
+    },
+    "06 Plan/06/Week.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 291,
+      "exportedPath": "06 Plan/06/Week.html",
+      "dependencies": []
+    },
+    "06 Plan/Ideas.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 354,
+      "exportedPath": "06 Plan/Ideas.html",
+      "dependencies": []
+    },
+    "07/Read/Stuff/Bespoke Synth Reference.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 96158,
+      "exportedPath": "07/Read/Stuff/Bespoke Synth Reference.html",
+      "dependencies": []
+    },
+    "07/Read/Stuff/BoJack Horseman.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 27099,
+      "exportedPath": "07/Read/Stuff/BoJack Horseman.html",
+      "dependencies": []
+    },
+    "07/Read/Stuff/The Hitchhiker's Guide.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 350301,
+      "exportedPath": "07/Read/Stuff/The Hitchhiker's Guide.html",
+      "dependencies": []
+    },
+    "07/Read/Stuff/The Hitchhiker's guide to understanding digital 3D model file formats.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 18251,
+      "exportedPath": "07/Read/Stuff/The Hitchhiker's guide to understanding digital 3D model file formats.html",
+      "dependencies": []
+    },
+    "07/Read/Stuff/Visual Color Comparison.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 23851,
+      "exportedPath": "07/Read/Stuff/Visual Color Comparison.html",
+      "dependencies": []
+    },
+    "07/Read/The Hitchhiker's Guide to Digital Colour/Question 1 What the Fuck Happens When We Change an RGB Slider Value.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 6016,
+      "exportedPath": "07/Read/The Hitchhiker's Guide to Digital Colour/Question 1 What the Fuck Happens When We Change an RGB Slider Value.html",
+      "dependencies": []
+    },
+    "07/Read/The Hitchhiker's Guide to Digital Colour/Question 2 What the Fuck Does 0.6 Mean.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 7083,
+      "exportedPath": "07/Read/The Hitchhiker's Guide to Digital Colour/Question 2 What the Fuck Does 0.6 Mean.html",
+      "dependencies": []
+    },
+    "07/Read/The Hitchhiker's Guide to Digital Colour/Question 3 Does the Fucking “Colour” of the Light Change When We Increase or Decrease the Quantity of Light.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 6336,
+      "exportedPath": "07/Read/The Hitchhiker's Guide to Digital Colour/Question 3 Does the Fucking “Colour” of the Light Change When We Increase or Decrease the Quantity of Light.html",
+      "dependencies": []
+    },
+    "07/Read/The Hitchhiker's Guide to Digital Colour/Question 4 What the Fuck are the Colours of the Three Lights.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 7368,
+      "exportedPath": "07/Read/The Hitchhiker's Guide to Digital Colour/Question 4 What the Fuck are the Colours of the Three Lights.html",
+      "dependencies": []
+    },
+    "07/Read/The Hitchhiker's Guide to Digital Colour/Question 5 What the Fuck does 0.5 mean.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 5622,
+      "exportedPath": "07/Read/The Hitchhiker's Guide to Digital Colour/Question 5 What the Fuck does 0.5 mean.html",
+      "dependencies": []
+    },
+    "07/Read/The Hitchhiker's Guide to Digital Colour/Question 6 What the Fuck is a Transfer Function.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 11027,
+      "exportedPath": "07/Read/The Hitchhiker's Guide to Digital Colour/Question 6 What the Fuck is a Transfer Function.html",
+      "dependencies": []
+    },
+    "07/Read/The Hitchhiker's Guide to Digital Colour/Question 7 What the Fuck Does “Linear” Mean.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 9834,
+      "exportedPath": "07/Read/The Hitchhiker's Guide to Digital Colour/Question 7 What the Fuck Does “Linear” Mean.html",
+      "dependencies": []
+    },
+    "07/Read/The Hitchhiker's Guide to Digital Colour/Question 8 What the Fuck Type of “Linear” Have We Been Assuming.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 7413,
+      "exportedPath": "07/Read/The Hitchhiker's Guide to Digital Colour/Question 8 What the Fuck Type of “Linear” Have We Been Assuming.html",
+      "dependencies": []
+    },
+    "07/Read/The Hitchhiker's Guide to Digital Colour/Question 9 Why the Fuck is Linear Light Important for a Digital Artist.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 8066,
+      "exportedPath": "07/Read/The Hitchhiker's Guide to Digital Colour/Question 9 Why the Fuck is Linear Light Important for a Digital Artist.html",
+      "dependencies": []
+    },
+    "07/Read/The Hitchhiker's Guide to Digital Colour/Question 10 Why the Fuck Do We Bother With Linear and Nonlinear Encodings At All.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 12709,
+      "exportedPath": "07/Read/The Hitchhiker's Guide to Digital Colour/Question 10 Why the Fuck Do We Bother With Linear and Nonlinear Encodings At All.html",
+      "dependencies": []
+    },
+    "07/Read/The Hitchhiker's Guide to Digital Colour/Question 11 How the Fuck Can We Talk About “Colour”.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 8120,
+      "exportedPath": "07/Read/The Hitchhiker's Guide to Digital Colour/Question 11 How the Fuck Can We Talk About “Colour”.html",
+      "dependencies": []
+    },
+    "07/Read/The Hitchhiker's Guide to Digital Colour/Question 12 How the Fuck Can We Talk About Light “Intensity”.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 12287,
+      "exportedPath": "07/Read/The Hitchhiker's Guide to Digital Colour/Question 12 How the Fuck Can We Talk About Light “Intensity”.html",
+      "dependencies": []
+    },
+    "07/Read/The Hitchhiker's Guide to Digital Colour/Question 13 What the Fuck is a Chromaticity.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 14366,
+      "exportedPath": "07/Read/The Hitchhiker's Guide to Digital Colour/Question 13 What the Fuck is a Chromaticity.html",
+      "dependencies": []
+    },
+    "07/Read/The Hitchhiker's Guide to Digital Colour/Question 14 What the Fuck is “White”.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 8025,
+      "exportedPath": "07/Read/The Hitchhiker's Guide to Digital Colour/Question 14 What the Fuck is “White”.html",
+      "dependencies": []
+    },
+    "07/Read/The Hitchhiker's Guide to Digital Colour/Question 15 What the Fuck is “Perceptually Uniform”.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 8719,
+      "exportedPath": "07/Read/The Hitchhiker's Guide to Digital Colour/Question 15 What the Fuck is “Perceptually Uniform”.html",
+      "dependencies": []
+    },
+    "07/Read/The Hitchhiker's Guide to Digital Colour/Question 16 What the Fuck is the Triangle Thingy in the Chromaticity Diagram.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 11241,
+      "exportedPath": "07/Read/The Hitchhiker's Guide to Digital Colour/Question 16 What the Fuck is the Triangle Thingy in the Chromaticity Diagram.html",
+      "dependencies": []
+    },
+    "07/Read/The Hitchhiker's Guide to Digital Colour/Question 17 What the Fuck is a Colour Space.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 5880,
+      "exportedPath": "07/Read/The Hitchhiker's Guide to Digital Colour/Question 17 What the Fuck is a Colour Space.html",
+      "dependencies": []
+    },
+    "07/Read/The Hitchhiker's Guide to Digital Colour/Question 18 What the  Fuck is the Missing Axis in a Chromaticity Diagram.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 10567,
+      "exportedPath": "07/Read/The Hitchhiker's Guide to Digital Colour/Question 18 What the  Fuck is the Missing Axis in a Chromaticity Diagram.html",
+      "dependencies": []
+    },
+    "07/Read/The Hitchhiker's Guide to Digital Colour/Question 19 What the Fuck is a “Gamut”.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 7898,
+      "exportedPath": "07/Read/The Hitchhiker's Guide to Digital Colour/Question 19 What the Fuck is a “Gamut”.html",
+      "dependencies": []
+    },
+    "07/Read/The Hitchhiker's Guide to Digital Colour/Question 20 What the Fuck is a Quantity of Light.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 7112,
+      "exportedPath": "07/Read/The Hitchhiker's Guide to Digital Colour/Question 20 What the Fuck is a Quantity of Light.html",
+      "dependencies": []
+    },
+    "07/Read/The Hitchhiker's Guide to Digital Colour/Question 21 How the Fuck do we Put a Red Pixel on the Screen.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 17073,
+      "exportedPath": "07/Read/The Hitchhiker's Guide to Digital Colour/Question 21 How the Fuck do we Put a Red Pixel on the Screen.html",
+      "dependencies": []
+    },
+    "07/Read/The Hitchhiker's Guide to Digital Colour/Question 22 How the Fuck do we Move a Red Pixel.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 8752,
+      "exportedPath": "07/Read/The Hitchhiker's Guide to Digital Colour/Question 22 How the Fuck do we Move a Red Pixel.html",
+      "dependencies": []
+    },
+    "07/Read/The Hitchhiker's Guide to Digital Colour/Question 23 How the Fuck Do We Move a Red Pixel Down Over Another Colour.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 8207,
+      "exportedPath": "07/Read/The Hitchhiker's Guide to Digital Colour/Question 23 How the Fuck Do We Move a Red Pixel Down Over Another Colour.html",
+      "dependencies": []
+    },
+    "07/Read/The Hitchhiker's Guide to Digital Colour/Question 24 How the Fuck Do We Move a Red Pixel Down and Block Another Pixel’s Emission.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 15503,
+      "exportedPath": "07/Read/The Hitchhiker's Guide to Digital Colour/Question 24 How the Fuck Do We Move a Red Pixel Down and Block Another Pixel’s Emission.html",
+      "dependencies": []
+    },
+    "07/Read/The Hitchhiker's Guide to Digital Colour/Question 25 What the Fuck is Alpha.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 16115,
+      "exportedPath": "07/Read/The Hitchhiker's Guide to Digital Colour/Question 25 What the Fuck is Alpha.html",
+      "dependencies": []
+    },
+    "07/Read/The Hitchhiker's Guide to Digital Colour/Question 26 What the Fuck is Stimulus Colour.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 10570,
+      "exportedPath": "07/Read/The Hitchhiker's Guide to Digital Colour/Question 26 What the Fuck is Stimulus Colour.html",
+      "dependencies": []
+    },
+    "07/Read/The Hitchhiker's Guide to Digital Colour/Question 27 What the Fuck is Perceptual Colour.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 14729,
+      "exportedPath": "07/Read/The Hitchhiker's Guide to Digital Colour/Question 27 What the Fuck is Perceptual Colour.html",
+      "dependencies": []
+    },
+    "07/Read/The Hitchhiker's Guide to Digital Colour/Question 28 What the Fuck is the Difference Between Affect and Effect (And What the Fck is Rashomon).md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 9283,
+      "exportedPath": "07/Read/The Hitchhiker's Guide to Digital Colour/Question 28 What the Fuck is the Difference Between Affect and Effect (And What the Fck is Rashomon).html",
+      "dependencies": []
+    },
+    "07/Read/The Hitchhiker's Guide to Digital Colour/Question 29 What the Fuck is Intensity, Again.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 5624,
+      "exportedPath": "07/Read/The Hitchhiker's Guide to Digital Colour/Question 29 What the Fuck is Intensity, Again.html",
+      "dependencies": []
+    },
+    "07/Read/The Hitchhiker's Guide to Digital Colour/Question 30 What is the Fucking “Colour” of Light.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 10410,
+      "exportedPath": "07/Read/The Hitchhiker's Guide to Digital Colour/Question 30 What is the Fucking “Colour” of Light.html",
+      "dependencies": []
+    },
+    "07/Read/The Hitchhiker's Guide to Digital Colour/Question 31 What the Fuck is Colour.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 25526,
+      "exportedPath": "07/Read/The Hitchhiker's Guide to Digital Colour/Question 31 What the Fuck is Colour.html",
+      "dependencies": []
+    },
+    "07/Read/The Hitchhiker's Guide to Digital Colour/Question 32  Does the Fucking “Colour” of the Light Change When We Increase or Decrease the Quantity of Light.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 22186,
+      "exportedPath": "07/Read/The Hitchhiker's Guide to Digital Colour/Question 32  Does the Fucking “Colour” of the Light Change When We Increase or Decrease the Quantity of Light.html",
+      "dependencies": []
+    },
+    "07/Read/The Hitchhiker's Guide to Digital Colour/Question 33 What the Fuck are the Colours of the Three Lights.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 16795,
+      "exportedPath": "07/Read/The Hitchhiker's Guide to Digital Colour/Question 33 What the Fuck are the Colours of the Three Lights.html",
+      "dependencies": []
+    },
+    "08/Plugins/Aosr.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 21604,
+      "exportedPath": "08/Plugins/Aosr.html",
+      "dependencies": []
+    },
+    "08/Plugins/Badge Plugin.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 4720,
+      "exportedPath": "08/Plugins/Badge Plugin.html",
+      "dependencies": []
+    },
+    "08/Plugins/Badges.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 6741,
+      "exportedPath": "08/Plugins/Badges.html",
+      "dependencies": []
+    },
+    "08/Plugins/Buttons.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 18343,
+      "exportedPath": "08/Plugins/Buttons.html",
+      "dependencies": []
+    },
+    "08/Plugins/Charts View.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 8998,
+      "exportedPath": "08/Plugins/Charts View.html",
+      "dependencies": []
+    },
+    "08/Plugins/Code Emitter.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 4953,
+      "exportedPath": "08/Plugins/Code Emitter.html",
+      "dependencies": []
+    },
+    "08/Plugins/Code Styler Plugin.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 25400,
+      "exportedPath": "08/Plugins/Code Styler Plugin.html",
+      "dependencies": []
+    },
+    "08/Plugins/Columns.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 8729,
+      "exportedPath": "08/Plugins/Columns.html",
+      "dependencies": []
+    },
+    "08/Plugins/Contribution Graph.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 3278,
+      "exportedPath": "08/Plugins/Contribution Graph.html",
+      "dependencies": []
+    },
+    "08/Plugins/Habit Tracker 21.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 2027,
+      "exportedPath": "08/Plugins/Habit Tracker 21.html",
+      "dependencies": []
+    },
+    "08/Plugins/Heatmap Tracker plugin for Obsidian.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 6882,
+      "exportedPath": "08/Plugins/Heatmap Tracker plugin for Obsidian.html",
+      "dependencies": []
+    },
+    "08/Plugins/Modal Form Plugin.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 12577,
+      "exportedPath": "08/Plugins/Modal Form Plugin.html",
+      "dependencies": []
+    },
+    "08/Plugins/Mood Tracker.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 2815,
+      "exportedPath": "08/Plugins/Mood Tracker.html",
+      "dependencies": []
+    },
+    "08/Plugins/Multi-Column Markdown.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 18174,
+      "exportedPath": "08/Plugins/Multi-Column Markdown.html",
+      "dependencies": []
+    },
+    "08/Plugins/Note gallery.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 4203,
+      "exportedPath": "08/Plugins/Note gallery.html",
+      "dependencies": []
+    },
+    "08/Plugins/Obsidian Dataview.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 8034,
+      "exportedPath": "08/Plugins/Obsidian Dataview.html",
+      "dependencies": []
+    },
+    "08/Plugins/Obsidian ProgressBar.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 5794,
+      "exportedPath": "08/Plugins/Obsidian ProgressBar.html",
+      "dependencies": []
+    },
+    "08/Plugins/Page Gallery.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 5780,
+      "exportedPath": "08/Plugins/Page Gallery.html",
+      "dependencies": []
+    },
+    "08/Plugins/Periodic Notes.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 5868,
+      "exportedPath": "08/Plugins/Periodic Notes.html",
+      "dependencies": []
+    },
+    "08/Plugins/QuickAdd.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 2188,
+      "exportedPath": "08/Plugins/QuickAdd.html",
+      "dependencies": []
+    },
+    "08/Plugins/ReadItLater.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 7100,
+      "exportedPath": "08/Plugins/ReadItLater.html",
+      "dependencies": []
+    },
+    "08/Plugins/Style Settings.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 14539,
+      "exportedPath": "08/Plugins/Style Settings.html",
+      "dependencies": []
+    },
+    "08/Plugins/Tabs.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 1954,
+      "exportedPath": "08/Plugins/Tabs.html",
+      "dependencies": []
+    },
+    "08/Plugins/Toggl Track.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 9392,
+      "exportedPath": "08/Plugins/Toggl Track.html",
+      "dependencies": []
+    },
+    "08/Plugins/Tracker.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 26818,
+      "exportedPath": "08/Plugins/Tracker.html",
+      "dependencies": []
+    },
+    "08/Plugins/Writing Goals.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 6530,
+      "exportedPath": "08/Plugins/Writing Goals.html",
+      "dependencies": []
+    },
+    "08/Plugins/Yesterday.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 3357,
+      "exportedPath": "08/Plugins/Yesterday.html",
+      "dependencies": []
+    },
+    "08/Syntax/Adding Metadata.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 7849,
+      "exportedPath": "08/Syntax/Adding Metadata.html",
+      "dependencies": []
+    },
+    "08/Syntax/Advanced formatting syntax.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 5396,
+      "exportedPath": "08/Syntax/Advanced formatting syntax.html",
+      "dependencies": []
+    },
+    "08/Syntax/Basic formatting syntax.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 11977,
+      "exportedPath": "08/Syntax/Basic formatting syntax.html",
+      "dependencies": []
+    },
+    "08/Syntax/Data Types.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 7283,
+      "exportedPath": "08/Syntax/Data Types.html",
+      "dependencies": []
+    },
+    "08/Syntax/Dataview.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 8846,
+      "exportedPath": "08/Syntax/Dataview.html",
+      "dependencies": []
+    },
+    "08/Syntax/Dataview Query Language.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 82676,
+      "exportedPath": "08/Syntax/Dataview Query Language.html",
+      "dependencies": []
+    },
+    "08/Syntax/DQL, JS and Inlines.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 5800,
+      "exportedPath": "08/Syntax/DQL, JS and Inlines.html",
+      "dependencies": []
+    },
+    "08/Syntax/Metadata on pages.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 3032,
+      "exportedPath": "08/Syntax/Metadata on pages.html",
+      "dependencies": []
+    },
+    "08/Syntax/Metadata on Tasks and Lists.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 5752,
+      "exportedPath": "08/Syntax/Metadata on Tasks and Lists.html",
+      "dependencies": []
+    },
+    "08/Themes/Blue Topaz.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 6318,
+      "exportedPath": "08/Themes/Blue Topaz.html",
+      "dependencies": []
+    },
+    "08/Themes/Chime.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 3721,
+      "exportedPath": "08/Themes/Chime.html",
+      "dependencies": []
+    },
+    "08/Themes/Light & Bright.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 1562,
+      "exportedPath": "08/Themes/Light & Bright.html",
+      "dependencies": []
+    },
+    "08/Themes/PLN.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 4884,
+      "exportedPath": "08/Themes/PLN.html",
+      "dependencies": []
+    },
+    "08/Themes/README.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 1688,
+      "exportedPath": "08/Themes/README.html",
+      "dependencies": []
+    },
+    "08/Themes/Royal Velvet Obsidian Theme.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 1981,
+      "exportedPath": "08/Themes/Royal Velvet Obsidian Theme.html",
+      "dependencies": []
+    },
+    "08/Themes/Vicious.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 5389,
+      "exportedPath": "08/Themes/Vicious.html",
+      "dependencies": []
+    },
+    "08/Hotkeys.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 327,
+      "exportedPath": "08/Hotkeys.html",
+      "dependencies": []
+    },
+    "08/Markdown.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 3992,
+      "exportedPath": "08/Markdown.html",
+      "dependencies": []
+    },
+    "99/CSS/Cssclasses.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 831,
+      "exportedPath": "99/CSS/Cssclasses.html",
+      "dependencies": []
+    },
+    "99/CSS/Page Colors.canvas": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 12173,
+      "exportedPath": "99/CSS/Page Colors.html",
+      "dependencies": []
+    },
+    "99/CSS/Page View.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 97,
+      "exportedPath": "99/CSS/Page View.html",
+      "dependencies": []
+    },
+    "99/CSS/Pen Colors.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 267,
+      "exportedPath": "99/CSS/Pen Colors.html",
+      "dependencies": []
+    },
+    "99/Template/Activity.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 24,
+      "exportedPath": "99/Template/Activity.html",
+      "dependencies": []
+    },
+    "99/Template/Channel.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 439,
+      "exportedPath": "99/Template/Channel.html",
+      "dependencies": []
+    },
+    "99/Template/Col.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 104,
+      "exportedPath": "99/Template/Col.html",
+      "dependencies": []
+    },
+    "99/Template/Daily.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 495,
+      "exportedPath": "99/Template/Daily.html",
+      "dependencies": []
+    },
+    "99/Template/excalidraw.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 1259,
+      "exportedPath": "99/Template/excalidraw.html",
+      "dependencies": []
+    },
+    "99/Template/Goal.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 182,
+      "exportedPath": "99/Template/Goal.html",
+      "dependencies": []
+    },
+    "99/Template/Heatmap Tracker.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 1972,
+      "exportedPath": "99/Template/Heatmap Tracker.html",
+      "dependencies": []
+    },
+    "99/Template/Heatmap Year Tracker.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 950,
+      "exportedPath": "99/Template/Heatmap Year Tracker.html",
+      "dependencies": []
+    },
+    "99/Template/Month.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 389,
+      "exportedPath": "99/Template/Month.html",
+      "dependencies": []
+    },
+    "99/Template/note.Note.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 112,
+      "exportedPath": "99/Template/note.Note.html",
+      "dependencies": []
+    },
+    "99/Template/Plan.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 216,
+      "exportedPath": "99/Template/Plan.html",
+      "dependencies": []
+    },
+    "99/Template/Playlist.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 344,
+      "exportedPath": "99/Template/Playlist.html",
+      "dependencies": []
+    },
+    "99/Template/Project.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 344,
+      "exportedPath": "99/Template/Project.html",
+      "dependencies": []
+    },
+    "99/Template/Read.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 138,
+      "exportedPath": "99/Template/Read.html",
+      "dependencies": []
+    },
+    "99/Template/Skincare.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 189,
+      "exportedPath": "99/Template/Skincare.html",
+      "dependencies": []
+    },
+    "99/Template/Toggl.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 184,
+      "exportedPath": "99/Template/Toggl.html",
+      "dependencies": []
+    },
+    "99/Template/Untitled.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 374,
+      "exportedPath": "99/Template/Untitled.html",
+      "dependencies": []
+    },
+    "99/00 Daily.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 3864,
+      "exportedPath": "99/00 Daily.html",
+      "dependencies": []
+    },
+    "99/Alphabetical Note Index.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 27647,
+      "exportedPath": "99/Alphabetical Note Index.html",
+      "dependencies": []
+    },
+    "99/flashcards.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 229,
+      "exportedPath": "99/flashcards.html",
+      "dependencies": []
+    },
+    "99/Index.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 2465,
+      "exportedPath": "99/Index.html",
+      "dependencies": []
+    },
+    "99/Life.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 678,
+      "exportedPath": "99/Life.html",
+      "dependencies": []
+    },
+    "99/Untitled.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 3037,
+      "exportedPath": "99/Untitled.html",
+      "dependencies": []
+    },
+    "99/Untitled 2.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 2172,
+      "exportedPath": "99/Untitled 2.html",
+      "dependencies": []
+    },
+    "99/Untitled 3.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 111,
+      "exportedPath": "99/Untitled 3.html",
+      "dependencies": []
+    },
+    "Untitled 14 - todo.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 413,
+      "exportedPath": "Untitled 14 - todo.html",
+      "dependencies": []
+    },
+    "used_links1737997853023.md": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 1839,
+      "exportedPath": "used_links1737997853023.html",
+      "dependencies": []
+    },
+    "lib/fonts/94f2f163d4b698242fef.otf": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 66800,
+      "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
+      "dependencies": []
+    },
+    "lib/fonts/72505e6a122c6acd5471.woff2": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 104232,
+      "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/2d5198822ab091ce4305.woff2": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 104332,
+      "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 98868,
+      "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cb10ffd7684cd9836a05.woff2": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 106876,
+      "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/b5f0f109bc88052d4000.woff2": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 105804,
+      "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cbe0ae49c52c920fd563.woff2": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 106108,
+      "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/535a6cf662596b3bd6a6.woff2": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 111708,
+      "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/70cc7ff27245e82ad414.ttf": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 192740,
+      "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/454577c22304619db035.ttf": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 161376,
+      "exportedPath": "lib/fonts/454577c22304619db035.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/52ac8f3034507f1d9e53.ttf": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 191568,
+      "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/05b618077343fbbd92b7.ttf": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 155288,
+      "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 7876,
+      "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+      "dependencies": []
+    },
+    "lib/media/874d8b8e340f75575caa.svg": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 317,
+      "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Zero.woff": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 1368,
+      "exportedPath": "lib/fonts/MathJax_Zero.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Main-Regular.woff": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 34160,
+      "exportedPath": "lib/fonts/MathJax_Main-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Main-Bold.woff": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 34464,
+      "exportedPath": "lib/fonts/MathJax_Main-Bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Math-Italic.woff": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 19360,
+      "exportedPath": "lib/fonts/MathJax_Math-Italic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Main-Italic.woff": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 20832,
+      "exportedPath": "lib/fonts/MathJax_Main-Italic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Math-BoldItalic.woff": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 19776,
+      "exportedPath": "lib/fonts/MathJax_Math-BoldItalic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Size1-Regular.woff": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 5792,
+      "exportedPath": "lib/fonts/MathJax_Size1-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Size2-Regular.woff": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 5464,
+      "exportedPath": "lib/fonts/MathJax_Size2-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Size3-Regular.woff": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 3244,
+      "exportedPath": "lib/fonts/MathJax_Size3-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Size4-Regular.woff": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 5148,
+      "exportedPath": "lib/fonts/MathJax_Size4-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_AMS-Regular.woff": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 40808,
+      "exportedPath": "lib/fonts/MathJax_AMS-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Calligraphic-Regular.woff": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 9600,
+      "exportedPath": "lib/fonts/MathJax_Calligraphic-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Calligraphic-Bold.woff": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 9908,
+      "exportedPath": "lib/fonts/MathJax_Calligraphic-Bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Fraktur-Regular.woff": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 21480,
+      "exportedPath": "lib/fonts/MathJax_Fraktur-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Fraktur-Bold.woff": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 22340,
+      "exportedPath": "lib/fonts/MathJax_Fraktur-Bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_SansSerif-Regular.woff": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 12660,
+      "exportedPath": "lib/fonts/MathJax_SansSerif-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_SansSerif-Bold.woff": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 15944,
+      "exportedPath": "lib/fonts/MathJax_SansSerif-Bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_SansSerif-Italic.woff": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 14628,
+      "exportedPath": "lib/fonts/MathJax_SansSerif-Italic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Script-Regular.woff": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 11852,
+      "exportedPath": "lib/fonts/MathJax_Script-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Typewriter-Regular.woff": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 17604,
+      "exportedPath": "lib/fonts/MathJax_Typewriter-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Vector-Regular.woff": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 1136,
+      "exportedPath": "lib/fonts/MathJax_Vector-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Vector-Bold.woff": {
+      "modifiedTime": 1738148648505,
+      "sourceSize": 1116,
+      "exportedPath": "lib/fonts/MathJax_Vector-Bold.woff",
+      "dependencies": []
+    }
+  }
+}
