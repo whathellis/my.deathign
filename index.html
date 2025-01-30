@@ -1990,7 +1990,7 @@
     }
     .sidebar-topbar {
       height: 2em;
-      width: calc(1em + var(--sidebar-width));
+      width: calc(var(--sidebar-width)*1.02);
       top: var(--sidebar-margin);
       padding-inline: var(--sidebar-margin);
       z-index: 1;
@@ -2002,16 +2002,16 @@
     }
     .sidebar.is-collapsed .sidebar-topbar {
       width: calc(2.3em + var(--sidebar-margin) * 3);
-      height: 3em;
+      height: 3.6em;
     }
     .sidebar .sidebar-topbar.is-collapsed {
       width: 0;
     }
     .sidebar-left .sidebar-topbar {
-      left: 0;
+      left: calc(var(--sidebar-width)/80);
     }
     .sidebar-right .sidebar-topbar {
-      right: 0;
+      right: calc(var(--sidebar-width)/50);
     }
     .topbar-content {
       overflow: hidden;
