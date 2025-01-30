@@ -5,8 +5,10 @@
 - [ ] add links
   - [ ] and fix broken
 - [ ] add icons
+- [ ] ***margins***
 - [ ] figure out wtf with css
     - [ ] try web html export
+    - [ ] 
 
 
 #### Sidebar content
@@ -87,3 +89,5 @@ idk how it works without the secong ", but it doesn't work ***with*** it.
     </a>
 </div>
 ```
+![alt text](image-1.png)
+![alt text](image.png)
