@@ -89,5 +89,4 @@ idk how it works without the secong ", but it doesn't work ***with*** it.
     </a>
 </div>
 ```
-![alt text](image-1.png)
-![alt text](image.png)
+![200](img\image-1.png) ![alt text](img\image.png)
